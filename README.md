@@ -1,5 +1,5 @@
 # wifite3
-This repo is a complete re-write of <a href="https://github.wifite2om/derv82/wifite2" target="_blank">wifite2</a>, a Python script for auditing wireless networks.
+This repo is a complete re-write of <a href="https://github.com/derv82/wifite2" target="_blank">wifite2</a>, a Python script for auditing wireless networks.
 
 Wifite runs existing wireless-auditing tools for you. Stop memorizing command arguments & switches!
 
